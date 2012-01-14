@@ -1,0 +1,9 @@
+* what's the difference between delegation and composition?
+* what is duck typing?
+
+
+------------
+
+Patterns learned thus far:
+* template pattern
+* strategy pattern
